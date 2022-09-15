@@ -1,6 +1,6 @@
 ![MasterHead](https://static.wixstatic.com/media/a1a157_28520aa6ab704f59ba33ba1eaf09eb52~mv2.gif)
 <h1 align="center">Hi 👋, I'm Ertugrul Ozvardar</h1>
-<h3 align="center">A passionate iOS Developer & Sometimes Web Developer & Absolutely Machine Learning enthusiast</h3>
+<h3 align="center">A passionate iOS Developer, Sometimes Web Developer but Absolutely Machine Learning enthusiast</h3>
 <img align="right" alt="Coding" width="350" src="https://www.bhartiyatech.com/assets/img/job-opening-large.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertugrulozvardar&label=Profile%20views&color=0e75b6&style=flat" alt="ertugrulozvardar" /> </p>
